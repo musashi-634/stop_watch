@@ -1,0 +1,10 @@
+#time {
+  position: relative;
+  left: 40px;
+  font-size: 20px;
+  letter-spacing: 4px;
+}
+
+#time>span {
+  font-size: 30px;
+}
